@@ -18,3 +18,6 @@
 
 - [LinkedIn](https://linkedin.com/in/firzahakim)
 - [Email](mailto:firzahakimcrack@gmail.com)
+
+### 🎶 Now Playing: Throne - Bring Me The Horizon
+![That's the Spirit](https://i.imgur.com/CepaLex.jpg)
