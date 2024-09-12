@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m actively participating in the **Bangkit Academy 2024 Batch 2** program to enhance my skills in backend development and cloud computing.
+- 🌱 I’m actively participating in the **Bangkit Academy 2024 Batch 2** program to enhance my skills in cloud computing, english and soft skill.
 - 💻 Currently learning **Backend Development** and cloud technologies, specifically in **Node.js** and **PostgreSQL**.
 
 ### 🔧 Tech Stack
