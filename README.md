@@ -1,5 +1,5 @@
 ## Hi👋, I’m Firza
-🎓 I am a seventh-semester Information Systems student with a passion for technology and web development. I've enjoyed JavaScript and make it the main language in creating a project.
+🎓 I am a final year Information Systems student with a passion for technology and web development. I've enjoyed JavaScript and make it the main language in creating a project.
 
 ### 🚀 About Me
 
