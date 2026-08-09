@@ -1,9 +1,9 @@
 ## Hi👋, I’m Firza
-🎓 I am a final year Information Systems student with a passion for technology and web development. I've enjoyed JavaScript and make it the main language in creating a project.
+🎓 I am am Information Systems graduate with a passion for technology and web development. I've enjoyed JavaScript and make it the main language in creating a project.
 
 ### 🚀 About Me
 
-- 💻 Currently learning **Backend Development** and cloud technologies, specifically in **Express.js**, **PostgreSQL**, and **Google Cloud**.
+- 💻 Currently learning **Fullstack Development** and cloud technologies, specifically in **Next.js**.
 
 ### 🔧 Tech Stack
 
